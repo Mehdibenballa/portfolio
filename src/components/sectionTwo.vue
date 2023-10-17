@@ -1,5 +1,5 @@
 <script setup>
-    import Flesh from '@/icons/Flesh.vue'
+    import flesh from './icons/Flesh.vue'
 </script>
 
 <template>
