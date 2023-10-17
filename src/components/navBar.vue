@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue';
-import Logo from '@/components/icons/logom.vue';
+import Logo from '@/components/icons/Logom.vue';
 
  const activeTab = ref(0)
 const menus = ref([{
