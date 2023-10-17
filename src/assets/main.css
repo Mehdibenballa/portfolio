@@ -9,18 +9,18 @@ html{
 @font-face {
   font-family: gilroy;
   font-weight: 400;
-  src: url(./src/assets/Gilroy-Regular.ttf) ;
+  src: url(./Gilroy-Regular.ttf) ;
 }
 
 @font-face {
   font-family: gilroy;
   font-weight: 700;
-  src: url(./src/assets/Gilroy-Bold.ttf);
+  src: url(./Gilroy-Bold.ttf);
 }
 @font-face {
   font-family: gilroy;
   font-weight: 300;
-  src:  url(./src/assets/Gilroy-Light.ttf);
+  src:  url(./Gilroy-Light.ttf);
 }
 
 body {
