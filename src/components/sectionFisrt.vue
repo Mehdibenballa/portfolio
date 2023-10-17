@@ -7,7 +7,7 @@ import flesh from '@/components/icons/Flesh.vue'
 
 
 <template>
-  <section class="relative container grid grid-cols-1 lg:grid-cols-3 items-center justify-between before:bg-cover before:-translate-x-1/2 before:left-[75%] lg:before:left-[40%] before:absolute before:bg-[url('../assets/Banner.png')] before:w-1/2 lg:before:w-[40%] before:h-[22rem] lg:before:h-[60rem] before:lg:-top-[24.5rem] before:-top-[13rem]  lg:before:bottom-0 bg-cover pb-24">
+  <section class="relative container grid grid-cols-1 lg:grid-cols-3 items-center justify-between before:bg-cover before:-translate-x-1/2 before:left-[75%] lg:before:left-[40%] before:absolute before:bg-[url('@/assets/Banner.png')] before:w-1/2 lg:before:w-[40%] before:h-[22rem] lg:before:h-[60rem] before:lg:-top-[24.5rem] before:-top-[13rem]  lg:before:bottom-0 bg-cover pb-24">
     <div class="lg:col-span-2 relative">
         <h1 class="text-white text-gilroy text-5xl lg:text-9xl font-bold before:absolute befor:mt-6 before:-translate-x-1/2 before:left-12 before:top-28 lg:before:top-[17rem] before:bg-logocolor before:w-16 before:h-2 mx-2 pb-12 lg:pb-32">
         Mehdi <br> BenBalla. 
