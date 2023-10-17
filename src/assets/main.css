@@ -14,13 +14,13 @@ html{
 
 @font-face {
   font-family: gilroy;
-  font-weight: 700;
-  src: url('./Gilroy-Bold.ttf');
+  font-weight: 300;
+  src: url('./Gilroy-Light.ttf');
 }
 @font-face {
   font-family: gilroy;
-  font-weight: 300;
-  src:  url('./Gilroy-Light.ttf');
+  font-weight: 700;
+  src:  url('./Gilroy-Bold.ttf');
 }
 
 body {
