@@ -19,7 +19,7 @@ import flesh from '@/components/icons/Flesh.vue'
         <img src="@/assets/two.jpg" alt="" class="pt-4 lg:pt-36">
     </div>
     <div class="">
-        <img src="@/assets//Capture.png" alt="" class="pb-4 pt-4 lg:pb-14">
+        <img src="@/assets/Capture.png" alt="" class="pb-4 pt-4 lg:pb-14">
         <img src="@/assets/three.png" alt="" class="lg:pt-36 pt-4 lg:pb-32">
     </div>
   </div>
