@@ -1,5 +1,5 @@
 <script setup>
-import flesh from '../components/icons/Flesh.vue'
+import flesh from '@/components/icons/Flesh.vue'
 
 </script>
 
@@ -16,11 +16,11 @@ import flesh from '../components/icons/Flesh.vue'
             <span class="text-logocolor font-bold text-2xl underline">Explore more</span>
             <div class="relative py-6 after:absolute after:left-0  lg:after:top-12 after:bg-logocolor after:w-6 after:h-0.5"><flesh class="text-logocolor text-lg " /></div> 
         </a>
-        <img src="../assets/two.jpg" alt="" class="pt-4 lg:pt-36">
+        <img src="@/assets/two.jpg" alt="" class="pt-4 lg:pt-36">
     </div>
     <div class="">
-        <img src="../assets//Capture.png" alt="" class="pb-4 pt-4 lg:pb-14">
-        <img src="../assets/three.png" alt="" class="lg:pt-36 pt-4 lg:pb-32">
+        <img src="@/assets//Capture.png" alt="" class="pb-4 pt-4 lg:pb-14">
+        <img src="@/assets/three.png" alt="" class="lg:pt-36 pt-4 lg:pb-32">
     </div>
   </div>
  </section>

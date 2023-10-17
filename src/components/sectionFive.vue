@@ -1,5 +1,5 @@
 <script setup>
-import flesh from '../components/icons/Flesh.vue'
+import flesh from '@/components/icons/Flesh.vue'
 
 </script>
 
