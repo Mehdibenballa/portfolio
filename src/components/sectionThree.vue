@@ -40,10 +40,10 @@
                 </div>
             </div>
             <div class="grid lg:grid-cols-4 gap-12 pt-28 pb-16 ">
-                <img src="@/src/assets/logosvgcom.png" alt="" class="grayscale h-24 mx-auto">
-                <img src="@/src/assets/Trello_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
-                <img src="@/src/assets/1280px-Dyson_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
-                <img src="@/src/assets/Disney+_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
+                <img src="@/assets/logosvgcom.png" alt="" class="grayscale h-24 mx-auto">
+                <img src="@/assets/Trello_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
+                <img src="@/assets/1280px-Dyson_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
+                <img src="@/assets/Disney+_logo.svg.png" alt="" class="grayscale h-24 mx-auto">
             </div>
         </div>
     </div>
