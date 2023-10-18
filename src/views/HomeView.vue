@@ -6,6 +6,7 @@ import  sectionThree from '@/components/sectionThree.vue'
 import sectionFour from '@/components/sectionFour.vue';
 import sectionFive from '@/components/sectionFive.vue';
 import slider from '@/components/slider.vue';
+import sectionSeven from '@/components/sectionSeven.vue';
 </script>
 
 <template>
@@ -18,4 +19,5 @@ import slider from '@/components/slider.vue';
   <sectionFour class="p-4" id="works"/>
   <sectionFive id="blog" class="p-4"/>
   <slider id="blog" class="p-4" />
+  <sectionSeven />
 </template>
