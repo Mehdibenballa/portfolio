@@ -20,6 +20,6 @@ import footerM from '@/components/footerM.vue';
   <sectionFour class="p-4" id="works"/>
   <sectionFive id="blog" class="p-4"/>
   <slider id="blog" class="p-4" />
-  <sectionSeven />
-  <footerM />
+  <sectionSeven class="p-4" />
+  <footerM  class="p-4"/>
 </template>
