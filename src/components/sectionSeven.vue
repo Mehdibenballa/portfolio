@@ -4,7 +4,6 @@ import upload from '@/components/icons/upload.vue'
 
 </script>
 
-
     <template>
         <section class="bg-primary pb-12">
             <div class="container grid lg:grid-cols-2 justify-between pt-20">
@@ -19,13 +18,13 @@ import upload from '@/components/icons/upload.vue'
             <div>
                 <h2 class="text-3xl font-bold text-white py-6">Estimate your project?<br> Let me know here.</h2>
                 <form action="" class="grid">
-                    <label for="" class="text-xl font-bold text-white py-6">What's your name?</label>
-                    <input type="text" class="bg-primary outline-none text-white">
+                    <label for="name" class="text-xl font-bold text-white py-6">What's your name?</label>
+                    <input type="text" id="name" class="bg-primary outline-none text-white">
                     <hr class="border-b border-[#3b3d48]">
-                    <label for="" class="text-xl font-bold text-white py-6">Your fancy email</label>
-                    <input type="text" class="bg-primary outline-none text-white">
+                    <label for="email" class="text-xl font-bold text-white py-6">Your fancy email</label>
+                    <input type="text" id="email" class="bg-primary outline-none text-white">
                     <hr class="border-b border-[#3b3d48]">
-                    <label for="" class="text-xl font-bold text-white py-6 grid grid-cols-2 items-center">Tell me about your project 
+                    <label for="about" class="text-xl font-bold text-white py-6 grid grid-cols-2 items-center">Tell me about your project 
                             <div class="flex justify-end items-center gap-6">
                                 <div>
                                     <label for="add" class="cursor-pointer">
@@ -40,7 +39,7 @@ import upload from '@/components/icons/upload.vue'
                                 </button>
                             </div> 
                     </label>
-                    <textarea name="" id="" cols="30" rows="2" class="bg-primary outline-none text-white"></textarea>
+                    <textarea name="about" id="about" cols="30" rows="2" class="bg-primary outline-none text-white"></textarea>
                 </form>
             </div>
             </div>
