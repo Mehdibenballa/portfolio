@@ -33,9 +33,12 @@ import upload from '@/components/icons/upload.vue'
                                         <upload class=""/>
                                     </label>
                                 </div>
-                                <div class="relative py-6 after:absolute after:left-0  lg:after:top-12 after:bg-logocolor after:w-6 after:h-0.5"><flesh class="text-logocolor text-lg " />
-                                </div>
-                        </div> 
+                                <button type="submit">
+                                    <div class="relative py-6 after:absolute after:left-0  lg:after:top-12 after:bg-logocolor after:w-6 after:h-0.5">
+                                        <flesh class="text-logocolor text-lg " />
+                                    </div>
+                                </button>
+                            </div> 
                     </label>
                     <textarea name="" id="" cols="30" rows="2" class="bg-primary outline-none text-white"></textarea>
                 </form>
