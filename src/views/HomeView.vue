@@ -7,6 +7,7 @@ import sectionFour from '@/components/sectionFour.vue';
 import sectionFive from '@/components/sectionFive.vue';
 import slider from '@/components/slider.vue';
 import sectionSeven from '@/components/sectionSeven.vue';
+import footerM from '@/components/footerM.vue';
 </script>
 
 <template>
@@ -20,4 +21,5 @@ import sectionSeven from '@/components/sectionSeven.vue';
   <sectionFive id="blog" class="p-4"/>
   <slider id="blog" class="p-4" />
   <sectionSeven />
+  <footerM />
 </template>
